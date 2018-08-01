@@ -1,0 +1,29 @@
+{
+  "name": "indonesia-island",
+  "version": "1.0.0",
+  "description": "Leraning with Mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djamale/demo-mongodb.git"
+  },
+  "keywords": [
+    "mongo-learning"
+  ],
+  "author": "djamale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djamale/demo-mongodb/issues"
+  },
+  "homepage": "https://github.com/djamale/demo-mongodb#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.6",
+    "nodemon": "^1.18.3"
+  }
+}
